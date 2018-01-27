@@ -12,7 +12,7 @@ Now, to view our masterpiece in RViz:
 `$ rosrun rviz rviz`
 
 Baxter URDF without FT sensor
-![Fig1](https://github.com/birlrobotics/birl_baxter_online_urdf_update/blob/master/media/baxter_no_ft_sensor.png)
+![Fig1](https://github.com/birlrobotics/birl_baxter_online_urdf_update/blob/master/media/baxter_no_ft_sensor.png = 100x20)
 
 Baxter URDF with FT sensor
-![Fig2](https://github.com/birlrobotics/birl_baxter_online_urdf_update/blob/master/media/baxter_with_ft_sensor.png)
+![Fig2](https://github.com/birlrobotics/birl_baxter_online_urdf_update/blob/master/media/baxter_with_ft_sensor.png = 100x20)
