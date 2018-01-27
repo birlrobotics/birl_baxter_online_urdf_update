@@ -11,8 +11,14 @@ This package is for online updating baxter's URDF(fig1). Due to the reason that 
 Now, to view our masterpiece in RViz: 
 `$ rosrun rviz rviz`
 
-Baxter URDF without FT sensor
-![Fig1](https://github.com/birlrobotics/birl_baxter_online_urdf_update/blob/master/media/baxter_no_ft_sensor.png = 100x20)
 
-Baxter URDF with FT sensor
-![Fig2](https://github.com/birlrobotics/birl_baxter_online_urdf_update/blob/master/media/baxter_with_ft_sensor.png = 100x20)
+<center>
+<img src="https://github.com/birlrobotics/birl_baxter_online_urdf_update/blob/master/media/baxter_no_ft_sensor.png" width="25%" height="25%" />
+Figure 1. Baxter URDF without FT sensor
+</center>
+
+<center>
+<img src="https://github.com/birlrobotics/birl_baxter_online_urdf_update/blob/master/media/baxter_with_ft_sensor.png" width="25%" height="25%" />
+Figure 2. Baxter URDF with FT sensor
+</center>
+
