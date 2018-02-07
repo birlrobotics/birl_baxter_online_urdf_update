@@ -18,12 +18,10 @@ def main():
     msg.link = "right_hand"
     msg.joint = "right_gripper_base"
 
-    msg.urdf = open(os.path.join(dir_of_this_script, 'update_urdf.xml'), 'r').read()
+    msg.urdf = open(os.path.join(dir_of_this_script, 'original.xml'), 'r').read()
 
     rospy.sleep(3)
     pub.publish(msg)
-
-
 
 if __name__ == '__main__':
     main()
